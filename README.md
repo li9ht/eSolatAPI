@@ -1,7 +1,7 @@
 eSolatAPI
 =========
 
-api for e-solat.com.my
+api for http://www.e-solat.gov.my/
 
 build with Codeigniter
 
